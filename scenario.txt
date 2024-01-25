@@ -1,0 +1,4 @@
+1. Проверка правильности работы процесса входа на сайт по логину (standard_user) и по паролю(secret_sauce).
+2. Прверка отображения 6 элементов с классом 'inventory_item', при этом 1 элемент имеет текст 'Sauce Labs Backpack', а последний - текст 'Test.allTheThings() T-Shirt (Red)'.
+3. Проверка текста описания первого элемента с классом 'inventory_item_desc', должен выводится текст - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+4. Проверка класса inventory_item_price, должен выводится текст - $29.99.
